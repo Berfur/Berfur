@@ -10,9 +10,9 @@ My interest are mostly office automation (not Ms Office in sé, but scripting), 
 
 I use both Linux and Windows so my suggestions are mostly for those platforms (I used to script with Autohotkey, and the reason I switched to espanso is because it's multiplatform, Apple included).
 
-Puoi trovare altro su di me qui:
+More on me here:
 
-* [Linkedin](https://www.linkedin.com/in/ruggerofurlanetto/)
-* [Substack, dove scrivo social, tecnologia, società](https://recruiters.substack.com/)
+* [Linkedin](https://www.linkedin.com/in/ruggerofurlanetto/) I am particularly active here for work reasons.
+* [Substack](https://recruiters.substack.com/) I write here (**in Italian**) about technology, sociology and humanism
 
-In particolare sono interessato ad approfondire i temi che mi interessano tramite il dialogo, quindi se trovi qualcosa di interessante non esitare a scrivermi.
+I am particularly interested in dialoge, so I warmly invite you in engaging with me if you find something interesting to discuss upon.
