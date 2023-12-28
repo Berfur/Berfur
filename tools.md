@@ -1,6 +1,6 @@
 # Toolbox per chi lavora con i pc
 
-Come tutti quelli che lavorano con i computer adoro la possibilità di elaborare un grande numero di informazioni e realizzare documenti anche complessi con quello che è, a tutti gli effetti, un elettrodomestico. Sono però fortemente contrario a come viene *insegnato* a uasre un computer. In particolare l'ECDL.  
+Come tutti quelli che lavorano con i computer adoro la possibilità di elaborare un grande numero di informazioni e realizzare documenti anche complessi con quello che è, a tutti gli effetti, un elettrodomestico. Sono però fortemente contrario a come viene *insegnato* a usare un computer. In particolare l'ECDL.  
 L'inghippo dell'imparare a usare un software specifico è che quando questo non c'è più (o viene cambiato) tutto quello che hai imparato non serve a nulla[^1]. Per questo ritengo che sia più efficace padroneggiare mentalmente quello che ti serve fare e poi imparare lo strumento specifico.  
 Per questo ad esempio amo e odio la filosofia Apple. È meravigliosamente integrata, contemporaneamente ti devi tu adattare a lei, la tua libertà di scelta è bassa e se vuoi cambiare ambiente, tanti tanti auguri. Personalmente la chiamo "prigione tecnologica".  
 Un tempo era anche peggio, i formati dei files (ma anche delle interfacce fisiche) erano progettati in modo da **non** essere compatibili.  
